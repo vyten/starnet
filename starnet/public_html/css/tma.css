@@ -1,0 +1,8 @@
+.imgDivEdit {background:url(../img/edit_off.png) center center;display:block;width:16px;height:16px;margin:0;}
+.imgDivEdit:hover {background:url(../img/edit_on.png) center center;display:block;width:16px;height:16px;margin:0;}
+
+.imgDivAddUser {background:url(../img/adduser_off.png) center center;display:block;width:24px;height:24px;margin:0;}
+.imgDivAddUser:hover {background:url(../img/adduser_on.png) center center;display:block;width:24px;height:24px;margin:0;}
+
+.imgDivDelUser {background:url(../img/deleteuser_off.png) center center;display:block;width:16px;height:16px;margin:0;}
+.imgDivDelUser:hover {background:url(../img/deleteuser_on.png) center center;display:block;width:16px;height:16px;margin:0;}
